@@ -6,4 +6,4 @@ Welcome to Yummy - your gateway to exploring a world of delicious recipes! This 
 - jQuery for DOM manipulation and event handling.
 - Font Awesome for icons.
 # API Integration
-This project integrates with The [MealDB API] (https://www.themealdb.com/api.php). You can explore their API documentation to discover it .
+This project integrates with The [MealDB API] (https://www.themealdb.com/api.php/). You can explore their API documentation to discover it .
